@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawler", "WebCrawler\WebCrawler.csproj", "{101D202D-FAF3-4F6E-9482-42ED540B3100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawlerUnitTest", "WebCrawlerUnitTest\WebCrawlerUnitTest.csproj", "{94C7753B-D724-4706-8DBE-5CACDE9AB440}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{244307BC-D440-4553-BDA0-70F3D5EFC836}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		WebCrawler.vsmdi = WebCrawler.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = WebCrawler.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Debug|x86.ActiveCfg = Debug|x86
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Debug|x86.Build.0 = Debug|x86
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Release|Any CPU.ActiveCfg = Release|x86
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Release|Mixed Platforms.Build.0 = Release|x86
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Release|x86.ActiveCfg = Release|x86
+		{101D202D-FAF3-4F6E-9482-42ED540B3100}.Release|x86.Build.0 = Release|x86
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{94C7753B-D724-4706-8DBE-5CACDE9AB440}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
